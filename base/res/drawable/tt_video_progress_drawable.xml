@@ -1,0 +1,40 @@
+
+
+;
+android*http://schemas.android.com/apk/res/androidI
+layer-list*´
+«item"s
+*http://schemas.android.com/apk/res/androidid@android:id/background"(Ğ„2 
+€€ˆandroid:id/background0*­
+¤shape*b
+Zsolid"Q
+*http://schemas.android.com/apk/res/androidcolor	#A5FFFFFF"(¥ƒ„2:Hÿÿÿ¯
+0*Y
+Qsize"I
+*http://schemas.android.com/apk/res/androidheight2dp"
+(Õ‚„2:h
+**\
+Tcorners"I
+*http://schemas.android.com/apk/res/androidradius1dp"(¨ƒ„2:h-/*Õ
+Ìitem"
+*http://schemas.android.com/apk/res/androidid@android:id/secondaryProgress"(Ğ„2'
+%€ˆandroid:id/secondaryProgress0*¿
+¶clip*­
+¤shape*b
+Zsolid"Q
+*http://schemas.android.com/apk/res/androidcolor	#FFFFFFFF"(¥ƒ„2:Hÿÿÿÿ4*Y
+Qsize"I
+*http://schemas.android.com/apk/res/androidheight2dp"(Õ‚„2:h.*\
+Tcorners"I
+*http://schemas.android.com/apk/res/androidradius1dp"(¨ƒ„2:h16*Â
+¹item"o
+*http://schemas.android.com/apk/res/androidid@android:id/progress"(Ğ„2
+€ˆandroid:id/progress0*¿
+¶clip*­
+¤shape*b
+Zsolid"Q
+*http://schemas.android.com/apk/res/androidcolor	#fff85959"(¥ƒ„2:HÙ²áÿ3*Y
+Qsize"I
+*http://schemas.android.com/apk/res/androidheight2dp"(Õ‚„2:h.*\
+Tcorners"I
+*http://schemas.android.com/apk/res/androidradius1dp"(¨ƒ„2:h1-I

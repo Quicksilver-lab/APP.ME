@@ -1,0 +1,43 @@
+
+¼
+;
+android*http://schemas.android.com/apk/res/android*RelativeLayout"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ*¿
+¶RelativeLayout"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"
+(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"
+(õ„2:0ÿÿÿÿÿÿÿÿÿ"_
+*http://schemas.android.com/apk/res/androidid@+id/adFrame"
+(Ğ„2
+é€¨ø
+id/adFrame0
+0*å
+ÜFrameLayout"M
+*http://schemas.android.com/apk/res/android
+visibilitygone"(Ü„2:0"L
+*http://schemas.android.com/apk/res/android	clickabletrue"(å„2:@"©
+*http://schemas.android.com/apk/res/androidpadding.@dimen/wortise_fullscreen_close_button_padding"(Õ„29
+7å„œø-dimen/wortise_fullscreen_close_button_padding0@"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"X
+*http://schemas.android.com/apk/res/androidlayout_alignParentEndtrue"(¼‡„2:@"L
+*http://schemas.android.com/apk/res/android	focusabletrue"(Ú„2:@"œ
+*http://schemas.android.com/apk/res/android
+background&@drawable/wortise_selector_transparent"(Ô„21
+/÷‰ ø%drawable/wortise_selector_transparent0"g
+*http://schemas.android.com/apk/res/androidnextFocusDown
+@id/adView"(ä„2
+ê€¨ø	id/adView0"Z
+*http://schemas.android.com/apk/res/androidlayout_alignParentRighttrue"(ƒ„2:@"X
+*http://schemas.android.com/apk/res/androidlayout_alignParentToptrue"(Œƒ„2:@"g
+*http://schemas.android.com/apk/res/androidid@+id/buttonClose"(Ğ„2
+’‚¨øid/buttonClose0*ï
+æ	ImageView"…
+*http://schemas.android.com/apk/res/androidsrc@drawable/wortise_button_close"!(™‚„2)
+'ô‰ ødrawable/wortise_button_close0"P
+*http://schemas.android.com/apk/res/androidlayout_width32dp"!(ô„2:h@"Q
+*http://schemas.android.com/apk/res/androidlayout_height32dp"!(õ„2:h@"W
+*http://schemas.android.com/apk/res/androidduplicateParentStatetrue"!(é„2:@"S
+*http://schemas.android.com/apk/res/androidlayout_gravitycenter"!(³„2:8!1%*

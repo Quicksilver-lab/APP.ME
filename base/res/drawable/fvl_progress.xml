@@ -1,0 +1,26 @@
+
+‡
+;
+android*http://schemas.android.com/apk/res/androidH
+layer-list*ú
+ñitem"t
+*http://schemas.android.com/apk/res/androiddrawable@drawable/fvl_track"(™ƒ„2
+°„ ødrawable/fvl_track0"s
+*http://schemas.android.com/apk/res/androidid@android:id/background"(Ğ„2 
+€€ˆandroid:id/background0X*é
+àitem"
+*http://schemas.android.com/apk/res/androidid@android:id/secondaryProgress"(Ğ„2'
+%€ˆandroid:id/secondaryProgress0*Ó
+Êscale"C
+*http://schemas.android.com/apk/res/android
+scaleWidth100%(üƒ„"|
+*http://schemas.android.com/apk/res/androiddrawable@drawable/fvl_secondary"(™ƒ„2"
+ ª„ ødrawable/fvl_secondary0>6*Ò
+Éitem"o
+*http://schemas.android.com/apk/res/androidid@android:id/progress"(Ğ„2
+€ˆandroid:id/progress0*Ï
+Æscale"C
+*http://schemas.android.com/apk/res/android
+scaleWidth100%(üƒ„"x
+*http://schemas.android.com/apk/res/androiddrawable@drawable/fvl_primary"(™ƒ„2 
+¨„ ødrawable/fvl_primary0<-H

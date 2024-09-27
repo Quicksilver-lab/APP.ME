@@ -1,0 +1,19 @@
+
+µ
+;
+android*http://schemas.android.com/apk/res/android
+:
+	card_view'http://schemas.android.com/apk/res-auto!androidx.cardview.widget.CardView"&cardUseCompatPaddingtrue"2:@"ƒ
+*http://schemas.android.com/apk/res/android
+background@android:color/transparent"(Ô„2$
+"€˜android:color/transparent0" contentPadding0dip"2:h"O
+*http://schemas.android.com/apk/res/androidlayout_width8dp"(ô„2:h"P
+*http://schemas.android.com/apk/res/androidlayout_height1dp"(õ„2:h"M
+'http://schemas.android.com/apk/res-autocardElevation0dp"(Äø2:h"P
+'http://schemas.android.com/apk/res-autocardCornerRadius0dp"(Ãø2:h"a
+*http://schemas.android.com/apk/res/androidid@+id/card_opc"(Ğ„2
+¹‚¨øid/card_opc0*Ÿ
+–LinearLayout"R
+*http://schemas.android.com/apk/res/androidorientationvertical"(Ä„2:0"O
+*http://schemas.android.com/apk/res/androidlayout_width8dp"(ô„2:h"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ

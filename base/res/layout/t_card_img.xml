@@ -1,0 +1,62 @@
+
+¿
+;
+android*http://schemas.android.com/apk/res/androidMRelativeLayout"_
+*http://schemas.android.com/apk/res/androidlayout_widthfill_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"]
+*http://schemas.android.com/apk/res/androidid@+id/rl_img"(Ğ„2
+ÛŠ¨ø	id/rl_img0*º
+±FrameLayout"_
+*http://schemas.android.com/apk/res/androidlayout_widthfill_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"]
+*http://schemas.android.com/apk/res/androidid@+id/fl_img"(Ğ„2
+¹„¨ø	id/fl_img0*†
+ı	ImageView"S
+*http://schemas.android.com/apk/res/androidadjustViewBoundstrue"(‚„2:@"_
+*http://schemas.android.com/apk/res/androidlayout_widthfill_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"W
+*http://schemas.android.com/apk/res/androidid@+id/img"(Ğ„2
+”…¨øid/img0(*•
+ŒProgressBar"M
+*http://schemas.android.com/apk/res/android
+visibilitygone"(Ü„2:0"Q
+*http://schemas.android.com/apk/res/androidlayout_margin20dp"(ö„2:h("Q
+*http://schemas.android.com/apk/res/androidlayout_width40dip"(ô„2:hP"R
+*http://schemas.android.com/apk/res/androidlayout_height40dip"(õ„2:hP"_
+*http://schemas.android.com/apk/res/androidid@+id/pb_main"(Ğ„2
+ê‰¨ø
+id/pb_main0"S
+*http://schemas.android.com/apk/res/androidlayout_gravitycenter"(³„2:8*İ
+ÔProgressBar"M
+*http://schemas.android.com/apk/res/android
+visibilitygone"(Ü„2:0"Q
+*http://schemas.android.com/apk/res/androidlayout_margin20dp"(ö„2:h("Q
+*http://schemas.android.com/apk/res/androidlayout_width40dip"(ô„2:hP"R
+*http://schemas.android.com/apk/res/androidlayout_height40dip"(õ„2:hP">style@style/pb_inverse"2
+Š‡Ìøstyle/pb_inverse0ÿÿ"g
+*http://schemas.android.com/apk/res/androidid@+id/pb_main_inv"(Ğ„2
+ë‰¨øid/pb_main_inv0"S
+*http://schemas.android.com/apk/res/androidlayout_gravitycenter"(³„2:8s*
+†LinearLayout"M
+*http://schemas.android.com/apk/res/android
+visibilitygone"%(Ü„2:0"N
+*http://schemas.android.com/apk/res/androidgravitystart"%(¯„2:8ƒ€€"V
+*http://schemas.android.com/apk/res/android
+background	#66000000"%(Ô„2:H€€€°"Q
+*http://schemas.android.com/apk/res/androidpaddingRight16dip"%(Ø„2:h "R
+*http://schemas.android.com/apk/res/androidorientationvertical"%(Ä„2:0"_
+*http://schemas.android.com/apk/res/androidlayout_widthfill_parent"%(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"%(õ„2:0şÿÿÿÿÿÿÿÿ"R
+*http://schemas.android.com/apk/res/androidpaddingBottom16dip"%(Ù„2:h "P
+*http://schemas.android.com/apk/res/androidpaddingLeft16dip"%(Ö„2:h "m
+*http://schemas.android.com/apk/res/androidlayout_alignBottom@+id/fl_img"%(Šƒ„2
+¹„¨ø	id/fl_img0"i
+*http://schemas.android.com/apk/res/androidid@+id/ll_img_descr"%(Ğ„2
+ç†¨øid/ll_img_descr0"O
+*http://schemas.android.com/apk/res/android
+paddingTop16dip"%(×„2:h *Â
+¹TextView"_
+*http://schemas.android.com/apk/res/androidlayout_widthfill_parent"*(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"*(õ„2:0şÿÿÿÿÿÿÿÿ"i
+*http://schemas.android.com/apk/res/androidid@+id/tv_img_descr"*(Ğ„2
+Œ¨øid/tv_img_descr0*%!M

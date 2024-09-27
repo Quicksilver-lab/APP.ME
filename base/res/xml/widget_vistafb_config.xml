@@ -1,0 +1,27 @@
+
+
+;
+android*http://schemas.android.com/apk/res/android
+*appwidget-provider"
+*http://schemas.android.com/apk/res/androidinitialLayout@layout/widget_vistafb"
+(Ñ„„2!
+÷‚´ølayout/widget_vistafb0"X
+*http://schemas.android.com/apk/res/androidwidgetCategoryhome_screen"
+(Ä‡„2:8"V
+*http://schemas.android.com/apk/res/android
+background	#FFFFFFFF"
+(Ô„2:Hÿÿÿÿ"O
+*http://schemas.android.com/apk/res/android	minHeight100dp"
+(À‚„2:hÈ"\
+*http://schemas.android.com/apk/res/androidupdatePeriodMillis86400000"
+(Ğ„„2:0€¸™)"T
+*http://schemas.android.com/apk/res/androidminResizeWidth250dp"
+(•‡„2:hô"U
+*http://schemas.android.com/apk/res/androidminResizeHeight100dp"
+(–‡„2:hÈ"N
+*http://schemas.android.com/apk/res/androidminWidth320dp"
+(¿‚„2:h€"\
+*http://schemas.android.com/apk/res/android
+resizeModevertical|horizontal"
+(ã†„2:8
+*

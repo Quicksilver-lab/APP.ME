@@ -1,0 +1,14 @@
+
+¥
+;
+android*http://schemas.android.com/apk/res/androidBmenu*÷
+îitem"{
+*http://schemas.android.com/apk/res/androidtitle@string/txt_pedirprivado"(áƒ„2#
+!Ì†Èøstring/txt_pedirprivado0"i
+*http://schemas.android.com/apk/res/androidid@+id/pedirprivado"(Ğ„2
+‰Š¨øid/pedirprivado0U*å
+Üitem"q
+*http://schemas.android.com/apk/res/androidtitle@string/elimprivado"(áƒ„2
+Ì‚Èøstring/elimprivado0"a
+*http://schemas.android.com/apk/res/androidid@+id/eliminar"(Ğ„2
+Éƒ¨øid/eliminar0JB

@@ -1,0 +1,11 @@
+
+”
+;
+android*http://schemas.android.com/apk/res/android	
+searchable"q
+*http://schemas.android.com/apk/res/androidsearchSuggestAuthority&quicksilver.apsdl.MySuggestionProvider(÷ÉÑ"h
+*http://schemas.android.com/apk/res/androidsearchSuggestIntentActionandroid.intent.action.VIEW(ŸÉÑ"t
+*http://schemas.android.com/apk/res/androidvoiceSearchMode&showVoiceSearchButton|launchRecognizer"	(“ÑÑ2:8"L
+*http://schemas.android.com/apk/res/androidsearchSuggestPathstores(◊ÉÑ"g
+*http://schemas.android.com/apk/res/androidlabel@string/buscar"	(ÅÄÑ2
+èÅ»¯string/buscar0	
